@@ -14,3 +14,4 @@ steps:
       - echo "Testing ..."
       - cat some-file.txt
       - cat something-else.txt
+      - echo "BLA!"
